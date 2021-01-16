@@ -7,8 +7,8 @@
 На тестирование затрачено 1.5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Cossmoz/Java_1/issues/1
-* https://github.com/Cossmoz/Java_1/issues/2
+* https://github.com/Cossmoz/Credit-Card-Number-Validator/issues/2
+* https://github.com/Cossmoz/Credit-Card-Number-Validator/issues/1
 
 ## Описание процесса тестирования
 
