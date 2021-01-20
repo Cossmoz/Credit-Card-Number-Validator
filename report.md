@@ -7,8 +7,7 @@
 На тестирование затрачено 1.5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Cossmoz/Credit-Card-Number-Validator/issues/2
-* https://github.com/Cossmoz/Credit-Card-Number-Validator/issues/1
+* [Валидные номера карт длиной меньше или больше 16 символов отмечаются как не валидные при их проверке в приложении Credit Card Number Validator](https://github.com/Cossmoz/Credit-Card-Number-Validator/issues/2)
 
 ## Описание процесса тестирования
 
